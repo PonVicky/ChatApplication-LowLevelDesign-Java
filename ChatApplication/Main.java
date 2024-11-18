@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("------------------------------------------------------------------------------");
-        System.out.println("----                             Durdle                                   ----");
+        System.out.println("----                  Welcome to Durdle(Chat-Application)                 ----");
         System.out.println("------------------------------------------------------------------------------\n");
         Scanner in = new Scanner(System.in);
         int x = 0;
