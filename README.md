@@ -52,12 +52,12 @@ This repository contains a **Chat Application** implemented in Java. The project
 **Application Flow**
 1. Create Account:
   - Enter your name and password
-  - Re-enter your password for confrimation
+  - Re-enter your password for confirmation
   - Receive a unique secret code (user ID) for private chats.
 
 2. Login:
   - Enter your name and password to log in.
-  - Incorrect credentials prompt retries util valid details are entered.
+  - Incorrect credentials prompt retries until valid details are entered.
 
 3. Chat with a Friend:
   - After logging in, choose to chat with a friend.
@@ -67,5 +67,5 @@ This repository contains a **Chat Application** implemented in Java. The project
 
 4. Private Message Hub:
   - A Private Message Hub(Chat Room) is created between two users when they log in and provide and each other's secret code.
-  - This hub allows only the two users to exchange messages, ensuring complete privasyy and exclusivity.
-  - Messages are persistent, enablig users to log in later, access the hub(Room) with the correct secret code, and seamlessly continue their conversation.
+  - This hub allows only the two users to exchange messages, ensuring complete privasy and exclusivity.
+  - Messages are persistent, enabling users to log in later, access the hub(Room) with the correct secret code, and seamlessly continue their conversation.
